@@ -1,4 +1,4 @@
-module git.sr.ht/~hjertnes/journalutils
+module github.com/hjertnes/journalutils
 
 go 1.13
 
